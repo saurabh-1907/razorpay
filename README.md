@@ -61,6 +61,6 @@ You can use the following test card details for transactions:
 - **OTP:** 112123
 
 ## Testing the Payment Integration
-Once both the client and server are running, you can test the payment integration by navigating to the client URL (usually `http://localhost:3000`) in your web browser.
+Once both the client and server are running, you can test the payment integration by navigating to the client URL (usually `http://localhost:5173`) in your web browser.
 
 
