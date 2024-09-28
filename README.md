@@ -26,6 +26,7 @@ Follow these steps to get a copy of the project up and running on your local mac
    ```bash
    cd razorpay
    ```
+   **Check for nested folders**
 
 3. **Install Node modules for the client:**
    ```bash
